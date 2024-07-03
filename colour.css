@@ -1,3 +1,10 @@
+
+*{
+    background-color: teal;
+}
+
+
+
 h1{
     color: rgba(251, 142, 0, 0.778);
     background-color:rgba(22, 22, 175, 0.323);
@@ -13,4 +20,7 @@ p{
      background-color: brown;
      padding: 10px;
      margin: 10px;
+}
+.box{
+    border: 3px solid royalblue;
 }
