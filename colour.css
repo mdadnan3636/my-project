@@ -1,13 +1,13 @@
 
 *{
-    background-color: teal;
+    background-color: rgb(32, 33, 33);
 }
 
 
 
 h1{
-    color: rgba(251, 142, 0, 0.778);
-    background-color:rgba(22, 22, 175, 0.323);
+    color: white;
+    background-color: royalblue;
     text-align:center;
 }
 
@@ -16,8 +16,8 @@ p{
     text-transform: capitalize;
     font-size: larger;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-     color:aquamarine ;
-     background-color: brown;
+     color:white;
+     background-color: royalblue; 
      padding: 10px;
      margin: 10px;
 }
